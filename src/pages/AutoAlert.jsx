@@ -20,8 +20,8 @@ export default function SurveillanceAlert() {
           </div>
           
           <div className="flex items-center justify-center mb-2 pt-4">
-            <Bell className="w-6 h-6 mr-2" />
-            <h1 className="text-2xl font-bold text-gray-900">New Alert</h1>
+            <Bell className="w-7 h-7 mr-2 " strokeWidth={2} />
+            <h1 className="text-2xl font-semibold  text-gray-900">New Alert</h1>
           </div>
         </div>
 
